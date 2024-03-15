@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/W34Gkc3/khamkhor-I-Mczi-Cxx-M-unsplash.jpg",
+      "title": "The Great Adventure",
+     "author": "",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 12,
+      "hashtags": ["adventure", "excitement", "journey"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/JFWhmWz/gaurav-k-CV7-KPRM6f-Hc-unsplash.jpg",
+      "title": "Exploring the Unknown",
+     "author": "",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 15,
+      "hashtags": ["discovery", "curiosity", "wanderlust"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/YZzfqMq/neom-3q-Bi6-HWZMeg-unsplash.jpg",
+      "title": "Secrets of the Jungle",
+     "author": "",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 20,
+      "hashtags": ["nature", "wildlife", "exploration"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/1f74D58/joseph-barrientos-o-Ql0e-VYd-n8-unsplash.jpg",
+      "title": "Mysteries of the Deep",
+     "author": "",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 18,
+      "hashtags": ["ocean", "marine", "deepsea"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co/Tqhf92s/giammarco-boscaro-ze-H-ljaw-Htg-unsplash.jpg",
+      "title": "In Search of Lost Treasures",
+     "author": "",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 25,
+      "hashtags": ["treasurehunt", "history", "archaeology"]
+    },
+    {
+      "id": 6,
+      "cover_img": "https://i.ibb.co/RSr2PbC/tomas-sobek-EKNe678kt-EY-unsplash.jpg",
+      "title": "The Enigma of Time",
+     "author": "",
+      "author_img": "https://example.com/author6.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 30,
+      "hashtags": ["timetravel", "mystery", "temporal"]
+    },
+    {
+      "id": 7,
+      "cover_img": "https://i.ibb.co/P95QVtb/rafael-hoyos-weht-Dsq-Hgaag-UYY-unsplash.jpg",
+      "title": "A Journey to Remember",
+     "author": "",
+      "author_img": "https://example.com/author7.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 22,
+      "hashtags": ["memories", "nostalgia", "experience"]
+    },
+    {
+      "id": 8,
+      "cover_img": "https://i.ibb.co/cwgq9sf/vianney-cahen-PSAE5-ed4-Z8-unsplash.jpg",
+      "title": "Echoes of the Past",
+     "author": "",
+      "author_img": "https://example.com/author8.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 17,
+      "hashtags": ["history", "legacy", "heritage"]
+    },
+    {
+      "id": 9,
+      "cover_img": "https://i.ibb.co/VtR5sFH/ani-kolleshi-s99-TVR37-H8-unsplash.jpg",
+      "title": "Through the Lens: A Photographic Journey",
+     "author": "",
+      "author_img": "https://example.com/author9.jpg",
+      "posted_date": "2024-03-07",
+      "reading_time": 28,
+      "hashtags": ["photography", "visual", "art"]
+    },
+    {
+      "id": 10,
+      "cover_img": "https://i.ibb.co/ws1vKhJ/element5-digital-Oy-Cl7-Y4y0-Bk-unsplash.jpg",
+      "title": "The Quest for Knowledge",
+     "author": "",
+      "author_img": "https://example.com/author10.jpg",
+      "posted_date": "2024-03-06",
+      "reading_time": 23,
+      "hashtags": ["learning", "education", "intellectual"]
+    },
+    {
+      "id": 11,
+      "cover_img": "https://i.ibb.co/t8j3yvt/anthony-tran-5d41p-9vl-Ok-unsplash.jpg",
+      "title": "Legends of the Realm",
+     "author": "",
+      "author_img": "https://example.com/author11.jpg",
+      "posted_date": "2024-03-05",
+      "reading_time": 19,
+      "hashtags": ["fantasy", "lore", "myth"]
+    },
+    {
+      "id": 12,
+      "cover_img": "https://i.ibb.co/4g5xZTQ/nasa-h-I5d-X2-Ob-As-unsplash.jpg",
+      "title": "Voices from the Void",
+     "author": "",
+      "author_img": "https://example.com/author12.jpg",
+      "posted_date": "2024-03-04",
+      "reading_time": 21,
+      "hashtags": ["space", "cosmos", "astronomy"]
+    },
+    {
+      "id": 13,
+      "cover_img": "https://i.ibb.co/Kww7KRw/nadiia-ploshchenko-6s-GFYR-NPh8-unsplash.jpg",
+      "title": "Whispers of the Wind",
+     "author": "",
+      "author_img": "https://example.com/author13.jpg",
+      "posted_date": "2024-03-03",
+      "reading_time": 16,
+      "hashtags": ["nature", "wind", "serenity"]
+    },
+    {
+      "id": 14,
+      "cover_img": "https://i.ibb.co/tDbHyCm/karori-production-0-PFCxy-n9-F8-unsplash.jpg",
+      "title": "Songs of the Soul",
+     "author": "",
+      "author_img": "https://example.com/author14.jpg",
+      "posted_date": "2024-03-02",
+      "reading_time": 14,
+      "hashtags": ["music", "harmony", "melody"]
+    },
+    {
+      "id": 15,
+      "cover_img": "https://i.ibb.co/tLYMtVQ/tom-parkes-Ns-BIi-W-c-NU-unsplash.jpg",
+      "title": "Dreams of Tomorrow",
+     "author": "",
+      "author_img": "https://example.com/author15.jpg",
+      "posted_date": "2024-03-01",
+      "reading_time": 26,
+      "hashtags": ["future", "aspiration", "imagination"]
+    }
+  ]
+  
